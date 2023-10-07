@@ -1,0 +1,56 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.bg-cus-nav {
+  background-color: white;
+}
+.btn-cus-1 {
+  background-color: #ce1212;
+}
+.sec-2 {
+  background-color: gray;
+  min-height: 700px;
+}
+.cus-font {
+  @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Caveat&display=swap');
+  font-family: 'Amatic SC', cursive;
+font-family: 'Caveat', cursive;
+}
+.cusText-red{
+    color: red;
+}
+.cus-red {
+  background-color: red;
+}
+.sec-3{
+   background-color: #EEEEEE;
+}
+.sec-4{
+  height: 900px;
+}
+.sec-4-cus{
+  color: #D11212;
+}
+.cus-size{
+  font-size: 50px;
+  
+}
+.sec-4-cus-h{
+  min-height: 10px;
+
+}
+.hover{
+  color: black;
+}
+.sec-5-cusH{
+  min-height: 200px;
+   min-width: 100%;
+}
+.h-cus{
+  min-height: 100px;
+  min-width: 100%;
+}
+.cus-borderInput{
+  border: none;
+}
